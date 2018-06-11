@@ -1,4 +1,4 @@
-# Token Crowdsale Wizard audit
+# Token Crowdsale Wizard Audit (ICO)
 
 ## Overview
 
